@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="15700" started-at="2022-03-04T22:23:46 BDT" finished-at="2022-03-04T22:24:02 BDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="15700" started-at="2022-03-04T22:23:46 BDT" finished-at="2022-03-04T22:24:02 BDT">
+      <class name="testcasePakage.TestcaseLocator001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcasePakage.TestcaseLocator001@1563da5]" name="setup" is-config="true" duration-ms="14163" started-at="2022-03-04T22:23:32 BDT" finished-at="2022-03-04T22:23:46 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LocatorSetup()[pri:0, instance:testcasePakage.TestcaseLocator001@1563da5]" name="LocatorSetup" duration-ms="15548" started-at="2022-03-04T22:23:46 BDT" finished-at="2022-03-04T22:24:02 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocatorSetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcasePakage.TestcaseLocator001@1563da5]" name="tearDown" is-config="true" duration-ms="5751" started-at="2022-03-04T22:24:02 BDT" finished-at="2022-03-04T22:24:08 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcasePakage.TestcaseLocator001 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

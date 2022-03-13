@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-13T23:34:45 BDT" name="Default suite" finished-at="2022-03-13T23:34:56 BDT" duration-ms="11115">
+    <groups>
+    </groups>
+    <test started-at="2022-03-13T23:34:45 BDT" name="Default test" finished-at="2022-03-13T23:34:56 BDT" duration-ms="11115">
+      <class name="testcasePakage.TestcaseLocator001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcasePakage.TestcaseLocator001@2d52216b]" started-at="2022-03-13T23:34:20 BDT" name="setup" finished-at="2022-03-13T23:34:45 BDT" duration-ms="25040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LocatorSetup()[pri:0, instance:testcasePakage.TestcaseLocator001@2d52216b]" started-at="2022-03-13T23:34:45 BDT" name="LocatorSetup" finished-at="2022-03-13T23:34:56 BDT" duration-ms="10987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocatorSetup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcasePakage.TestcaseLocator001@2d52216b]" started-at="2022-03-13T23:34:57 BDT" name="tearDown" finished-at="2022-03-13T23:34:57 BDT" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcasePakage.TestcaseLocator001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
